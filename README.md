@@ -120,7 +120,7 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Class Decorators.
+- [x] Class Decorators.
 - [ ] Associations.
 - [ ] Basic UI.
 - [ ] Preserve data.
