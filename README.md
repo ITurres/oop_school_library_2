@@ -15,8 +15,9 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -96,6 +97,19 @@ Example commands:
   gh repo clone ITurres/oop_school_library_2
 ```
 
+### Usage
+
+```bash
+ cd ui/
+  ruby main.rb
+```
+
+OR
+
+```bash
+ruby ui/main.rb
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -122,7 +136,7 @@ Example commands:
 
 - [x] Class Decorators.
 - [x] Associations.
-- [ ] Basic UI.
+- [x] Basic UI.
 - [ ] Preserve data.
 - [ ] unit tests.
 

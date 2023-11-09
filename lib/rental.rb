@@ -1,5 +1,5 @@
 class Rental
-  attr_assessor :date
+  attr_accessor :date
   attr_reader :book, :person # * needed to access on the rental_to_s method.
 
   def initialize(date, book, person)
