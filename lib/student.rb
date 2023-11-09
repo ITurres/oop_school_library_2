@@ -11,4 +11,9 @@ class Student < Person
   def play_hooky
     '¯\(ツ)/¯'
   end
+
+  def classroom=(classroom)
+    @classroom = classroom # * sets the classroom to the student.
+    classroom.add_student(self) unless classroom.students.include?(self) # * adds the student to the classroom.
+  end
 end
