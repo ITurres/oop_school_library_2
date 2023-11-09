@@ -121,7 +121,7 @@ Example commands:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] Class Decorators.
-- [ ] Associations.
+- [x] Associations.
 - [ ] Basic UI.
 - [ ] Preserve data.
 - [ ] unit tests.
