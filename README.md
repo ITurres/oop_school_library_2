@@ -122,7 +122,7 @@ Example commands:
 
 - [x] Class Decorators.
 - [x] Associations.
-- [ ] Basic UI.
+- [x] Basic UI.
 - [ ] Preserve data.
 - [ ] unit tests.
 
