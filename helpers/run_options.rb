@@ -8,7 +8,7 @@ def run_options(options, app)
       puts "#{option_number} - #{option[:name]}"
     end
 
-    selected_option = gets.chomp.to_i
+    selected_option = gets.chomp
 
     if options.key?(selected_option)
       if options[selected_option][:method] == :exit_program
